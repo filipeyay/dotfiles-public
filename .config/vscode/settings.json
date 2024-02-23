@@ -12,13 +12,5 @@
   "editor.fontSize": 18,
   "editor.lineHeight": 1.5,
   "workbench.startupEditor": "none",
-  "breadcrumbs.enabled": false,
-  "liveServer.settings.CustomBrowser": "firefox",
-
-  "workbench.colorTheme": "Solarized Osaka",
-  "workbench.iconTheme": "material-icon-theme",
-
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  "breadcrumbs.enabled": false
 }

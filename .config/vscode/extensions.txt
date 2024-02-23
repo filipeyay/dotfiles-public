@@ -1,0 +1,12 @@
+Minhas extenções favoritas:
+
+Prettier
+GitLens
+Auto Rename Tag
+Error Lens
+EsLint
+Live Server
+Markdown All in One
+Notes
+Project Manager
+Thunder Client
