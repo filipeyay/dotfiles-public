@@ -1,0 +1,6 @@
+Programas:
+Neovim
+Alacritty
+
+Fonte: Iosevka Nerd Font
+

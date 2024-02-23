@@ -1,0 +1,24 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "editor.minimap.autohide": true,
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "window.menuBarVisibility": "toggle",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "explorer.compactFolders": false,
+  "editor.fontFamily": "Fira Code, Consolas",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 1.5,
+  "workbench.startupEditor": "none",
+  "breadcrumbs.enabled": false,
+  "liveServer.settings.CustomBrowser": "firefox",
+
+  "workbench.colorTheme": "Solarized Osaka",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
