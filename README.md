@@ -5,7 +5,7 @@ Repositorio dedicado as pricipais configurações do meu ambiente de desenvolvim
 ## Preview
 
 ![preview1](./img/preview1.png)
-![preview2](./img/preview2.png)
+![preview2](./img/preview2v.png)
 
 ## O que é preciso?
 
