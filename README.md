@@ -1,6 +1,6 @@
 # Dotfiles
 
-Repositorio dedicado as pricipais configurações do meu ambiente de desenvolvimento.
+Repositório dedicado às principais configurações do meu ambiente de desenvolvimento.
 
 ## Preview
 
@@ -13,30 +13,28 @@ A principais ferramentas são um terminal que tenha suporte a 'true colors'
 (eg: Alacritty, Kitty, wezterm, iterm2), Neovim >= 0.9.0, Git >= 0.9.0,
 GCC (Compilador C), alguma Nerd Fonts de sua escolha.
 
-## Minhas preferencias
+## Minhas preferências
 
-- Alacritty (Terminal) => https://github.com/alacritty/alacritty
-- Zsh (Shell) => https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
-- Neovim (Editor Principal) => https://github.com/neovim/neovim
-- Lazyvim (Distribuição Neovim) => https://github.com/LazyVim/LazyVim
-- Lazygit (Cliente Git via Terminal) => https://github.com/jesseduffield/lazygit
+- Alacritty (Terminal) -> https://github.com/alacritty/alacritty
+- Zsh (Shell) -> https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+- Neovim (Editor Principal) -> https://github.com/neovim/neovim
+- Lazyvim (Distribuição Neovim) -> https://github.com/LazyVim/LazyVim
+- Lazygit (Cliente Git via Terminal) -> https://github.com/jesseduffield/lazygit
 
 ## Minhas Fontes Favoritas
 
-- Iosevka => https://github.com/be5invis/Iosevka
-- Fira Code => https://github.com/tonsky/FiraCode
+- Inter -> https://github.com/rsms/inter
+- Iosevka (Monospace) -> https://github.com/be5invis/Iosevka
+- Fira Code (Monospace) -> https://github.com/tonsky/FiraCode
 
 Você pode encontrar as versões Nerd das fontes mencionadas nesse repositorio => https://github.com/ryanoasis/nerd-fonts
 
-## Outros
+## Outros (Linux)
 
-- OS: Fedora Workstation
-- Tema: Jasper/ Icones: Colloid Teal
-<details><summary>Extenções Gnome</summary>
-- AppIndicator KStatusNotifierItem Support
-- Blur my Shell
-- Clipboard Indicator
-- User Themes
+<details><summary>Fedora Workstation</summary>
+AppIndicator KStatusNotifierItem Support <br>
+Blur my Shell <br>
+Clipboard Indicator <br>
 </details>
 
 ### !Atenção!

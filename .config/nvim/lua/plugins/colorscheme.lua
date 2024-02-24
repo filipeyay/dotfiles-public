@@ -1,3 +1,5 @@
+-- Link do tema: https://github.com/craftzdog/solarized-osaka.nvim
+
 return {
   {
     "craftzdog/solarized-osaka.nvim",

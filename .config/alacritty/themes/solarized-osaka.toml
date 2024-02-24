@@ -1,3 +1,5 @@
+# Baseado no tema Solarized Osaka. Link --> https://github.com/craftzdog/solarized-osaka.nvim
+
 [colors.primary]
 background = '#00141A'
 foreground = '#ADB8B8'
