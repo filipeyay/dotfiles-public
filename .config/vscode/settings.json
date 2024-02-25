@@ -1,16 +1,15 @@
 {
-  "files.autoSave": "afterDelay",
+  "editor.fontSize": 18,
+  "editor.fontFamily": "Iosevka Nerd Font, 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.5,
   "editor.wordWrap": "on",
+  "window.titleBarStyle": "custom",
+  "window.commandCenter": false,
+  "breadcrumbs.enabled": false,
+  "workbench.startupEditor": "none",
   "editor.minimap.autohide": true,
   "editor.formatOnSave": true,
-  "editor.linkedEditing": true,
-  "window.menuBarVisibility": "toggle",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorBlinking": "smooth",
-  "explorer.compactFolders": false,
-  "editor.fontFamily": "Fira Code, Consolas",
-  "editor.fontSize": 18,
-  "editor.lineHeight": 1.5,
-  "workbench.startupEditor": "none",
-  "breadcrumbs.enabled": false
+  "files.autoSave": "afterDelay",
+  "explorer.compactFolders": false
 }

@@ -8,4 +8,4 @@ de página inicial do seu navegador.
 
 ## Preview
 
-![pagina-preview](../img/pagina-preview.png)
+![pagina-preview](../img/preview2-2.png)

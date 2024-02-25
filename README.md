@@ -4,14 +4,17 @@ Repositório dedicado às principais configurações do meu ambiente de desenvol
 
 ## Preview
 
-![preview1](./img/preview1.png)
-![preview2](./img/preview2v.png)
+![preview1](./img/preview1-1.png)
 
 ## O que é preciso?
 
-A principais ferramentas são um terminal que tenha suporte a 'true colors'
-(eg: Alacritty, Kitty, wezterm, iterm2), Neovim >= 0.9.0, Git >= 0.9.0,
-GCC (Compilador C), alguma Nerd Fonts de sua escolha.
+A principais ferramentas são:
+
+- Terminal que tenha suporte a 'true colors' (eg: Alacritty, Kitty, wezterm)
+- Neovim >= 0.9.0
+- Git >= 0.9.0
+- GCC (Compilador C)
+- Nerd Fonts de sua escolha
 
 ## Minhas preferências
 

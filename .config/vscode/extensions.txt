@@ -1,12 +1,13 @@
 Minhas extenções favoritas:
 
-Prettier
-GitLens
 Auto Rename Tag
+Code Runner
 Error Lens
-EsLint
+Git History
 Live Server
 Markdown All in One
-Notes
+Prettier
 Project Manager
 Thunder Client
+Night Owl
+Material Icon Theme
