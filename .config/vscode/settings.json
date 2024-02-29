@@ -1,15 +1,18 @@
 {
-  "editor.fontSize": 18,
-  "editor.fontFamily": "Iosevka Nerd Font, 'monospace', monospace",
-  "editor.fontLigatures": true,
-  "editor.lineHeight": 1.5,
+  "files.autoSave": "afterDelay",
   "editor.wordWrap": "on",
-  "window.titleBarStyle": "custom",
-  "window.commandCenter": false,
-  "breadcrumbs.enabled": false,
-  "workbench.startupEditor": "none",
   "editor.minimap.autohide": true,
   "editor.formatOnSave": true,
-  "files.autoSave": "afterDelay",
-  "explorer.compactFolders": false
+  "editor.linkedEditing": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "explorer.compactFolders": false,
+  "editor.fontFamily": "Consolas, monospace",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 1.5,
+  "workbench.startupEditor": "none",
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "window.menuBarVisibility": "toggle",
+  "editor.fontLigatures": true
 }

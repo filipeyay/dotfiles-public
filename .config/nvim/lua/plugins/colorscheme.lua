@@ -1,13 +1,12 @@
--- Link do tema: https://github.com/oxfist/night-owl.nvim
-
 return {
   {
-    "oxfist/night-owl.nvim",
+    "loctvl842/monokai-pro.nvim",
     lazy = true,
     priority = 1000,
     opts = function()
       return {
-        colorscheme = "night-owl",
+        colorscheme = "monokai-pro",
+        filter = "spectrum",
       }
     end,
   },

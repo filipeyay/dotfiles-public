@@ -1,4 +1,4 @@
-# Inspirado no tema Nigh Owl -> https://github.com/sdras/night-owl-vscode-theme
+# Nigh Owl Theme -> https://github.com/sdras/night-owl-vscode-theme
 
 [colors.primary]
 background = "#011627"
@@ -23,8 +23,6 @@ blue = "#82aaff"
 magenta = "#c792ea"
 cyan = "#7fdbca"
 white = "#ffffff"
-
-# Configurações gerais dos terminal
 
 [window]
 startup_mode = "Windowed"

@@ -18,7 +18,7 @@ A principais ferramentas são:
 
 ## Minhas preferências
 
-- Alacritty (Terminal) -> https://github.com/alacritty/alacritty
+- Kitty (Terminal) -> https://github.com/kovidgoyal/kitty
 - Zsh (Shell) -> https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 - Neovim (Editor Principal) -> https://github.com/neovim/neovim
 - Lazyvim (Distribuição Neovim) -> https://github.com/LazyVim/LazyVim
@@ -38,6 +38,7 @@ Você pode encontrar as versões Nerd das fontes mencionadas nesse repositorio =
 AppIndicator KStatusNotifierItem Support <br>
 Blur my Shell <br>
 Clipboard Indicator <br>
+Dash to Dock <br>
 </details>
 
 ### !Atenção!
