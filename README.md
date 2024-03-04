@@ -1,48 +1,25 @@
 # Dotfiles
 
-Repositório dedicado às principais configurações do meu ambiente de desenvolvimento.
+Here you'll find my configuration files.
 
-## Preview
+## Requirements
 
-![preview1](./img/preview1-1.png)
-
-## O que é preciso?
-
-A principais ferramentas são:
-
-- Terminal que tenha suporte a 'true colors' (eg: Alacritty, Kitty, wezterm)
+- Terminal with true colors support (eg: kitty, alacritty, wezterm, iterm2)
 - Neovim >= 0.9.0
-- Git >= 0.9.0
-- GCC (Compilador C)
-- Nerd Fonts de sua escolha
+- Git
+- GCC (C compiler)
+- Nerd Font --> https://github.com/ryanoasis/nerd-fonts
 
-## Minhas preferências
+## Tools
 
-- Kitty (Terminal) -> https://github.com/kovidgoyal/kitty
-- Zsh (Shell) -> https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
-- Neovim (Editor Principal) -> https://github.com/neovim/neovim
-- Lazyvim (Distribuição Neovim) -> https://github.com/LazyVim/LazyVim
-- Lazygit (Cliente Git via Terminal) -> https://github.com/jesseduffield/lazygit
+- Kitty (Terminal Emulator) --> https://github.com/kovidgoyal/Kitty
+- Zsh (Shell) --> https://github.com/
+- Neovim (Text Editor) --> https://github.com/neovim/neovim
+- Lazyvim (Neovim Setup) --> https://github.com/lazygit/lazygit
+- Lazygit (Terminal Git Client) --> https://github.com/jesseduffield/lazygit
+- Tmux (Terminal Multiplexer) --> https://github.com/tmux/tmux
 
-## Minhas Fontes Favoritas
+## My Favorite Fonts
 
-- Inter -> https://github.com/rsms/inter
-- Iosevka (Monospace) -> https://github.com/be5invis/Iosevka
-- Fira Code (Monospace) -> https://github.com/tonsky/FiraCode
-
-Você pode encontrar as versões Nerd das fontes mencionadas nesse repositorio => https://github.com/ryanoasis/nerd-fonts
-
-## Outros (Linux)
-
-<details><summary>Fedora Workstation</summary>
-AppIndicator KStatusNotifierItem Support <br>
-Blur my Shell <br>
-Clipboard Indicator <br>
-Dash to Dock <br>
-</details>
-
-### !Atenção!
-
-É recomendado que caso deseje usar essas configurações no seu ambiente você faça
-backup das suas configurações atuais para que em caso de conflito ou erro vc possa
-recuperar a configuração antiga.
+- Iosevka --> https://github.com/be5invis/Iosevka
+- Fira Code --> https://github.com/tonsky/FiraCode
