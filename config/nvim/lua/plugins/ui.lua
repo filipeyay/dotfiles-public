@@ -1,6 +1,6 @@
 return {
   -- animations
-  {
+  --[[{
     "echasnovski/mini.animate",
     event = "VeryLazy",
     opts = function(_, opts)
@@ -8,7 +8,8 @@ return {
         enable = false,
       }
     end,
-  },
+  },]]
+  --
   {
     "folke/zen-mode.nvim",
     cmd = "ZenMode",
@@ -46,7 +47,7 @@ return {
     "nvim-neo-tree/neo-tree.nvim",
     opts = {
       window = {
-        position = "right",
+        position = "current",
         width = 50,
       },
     },
