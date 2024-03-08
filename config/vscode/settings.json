@@ -1,0 +1,22 @@
+{
+    "editor.wordWrap": "on",
+    "editor.linkedEditing": true,
+    "editor.parameterHints.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code, monospace",
+    "editor.lineHeight": 1.5,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.fontLigatures": true,
+    "workbench.startupEditor": "none",
+    "workbench.layoutControl.enabled": false,
+    "workbench.sideBar.location": "right",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": false,
+    "window.title": "${activeEditorMedium}${separator}${rootName}"
+}
