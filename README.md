@@ -4,12 +4,13 @@ Here you'll find my configuration files.
 
 ## Jump To
 
-- [VS Code](./config/vscode/)
 - [Neovim](./config/nvim/)
+- [PowerShell](./config/PowerShell/)
+- [VS Code](./config/vscode/)
 - [Kitty](./config/kitty/)
 
 ## My Favorite Fonts
 
-- [Iosevka](https://github.com/be5invis/Iosevka)
+- [Hack](https://github.com/source-foundry/Hack)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
