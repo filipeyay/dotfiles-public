@@ -1,0 +1,23 @@
+{
+  "editor.wordWrap": "on",
+  "editor.linkedEditing": true,
+  "editor.fontFamily": "'GeistMono Nerd Font Mono'",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.6,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.formatOnSave": true,
+  "editor.renderLineHighlight": "gutter",
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "window.newWindowDimensions": "maximized",
+  "workbench.editor.labelFormat": "short",
+  "workbench.enablePreviewFeatures": true,
+  "workbench.colorTheme": "Default Dark Modern",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true
+}
