@@ -21,7 +21,6 @@
   "editor.minimap.autohide": true,
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
-  "workbench.colorTheme": "Monokai Night",
   "symbols.hidesExplorerArrows": false,
   "terminal.integrated.smoothScrolling": true,
 

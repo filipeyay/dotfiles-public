@@ -4,11 +4,9 @@ My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
 
 #### Theme
 
-[Visual Studio Code Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
-
 [Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-[Windows Terminal Theme](https://github.com/NickSeagull/windows-terminal-monokai-night)
+[Windows Terminal Theme](https://windowsterminalthemes.dev/) Get Dark+ theme.
 
 #### Extensions (Visual Studio Code)
 

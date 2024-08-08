@@ -2,7 +2,7 @@
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Monokai Night",
+      "colorScheme": "Dark+",
       "font": {
         "cellHeight": "1.6",
         "face": "GeistMono Nerd Font Mono"
@@ -11,27 +11,27 @@
   },
   "schemes": [
     {
-      "background": "#1F1F1F",
-      "black": "#1F1F1F",
-      "blue": "#6699DF",
-      "brightBlack": "#75715E",
-      "brightBlue": "#66D9EF",
-      "brightCyan": "#E69F66",
-      "brightGreen": "#A6E22E",
-      "brightPurple": "#AE81FF",
-      "brightRed": "#F92672",
-      "brightWhite": "#F8F8F2",
-      "brightYellow": "#E6DB74",
-      "cursorColor": "#FFFFFF",
-      "cyan": "#E69F66",
-      "foreground": "#F8F8F8",
-      "green": "#A6E22E",
-      "name": "Monokai Night",
-      "purple": "#AE81FF",
-      "red": "#F92672",
-      "selectionBackground": "#FFFFFF",
-      "white": "#F8F8F2",
-      "yellow": "#E6DB74"
+      "name": "Dark+",
+      "black": "#000000",
+      "red": "#cd3131",
+      "green": "#0dbc79",
+      "yellow": "#e5e510",
+      "blue": "#2472c8",
+      "purple": "#bc3fbc",
+      "cyan": "#11a8cd",
+      "white": "#e5e5e5",
+      "brightBlack": "#666666",
+      "brightRed": "#f14c4c",
+      "brightGreen": "#23d18b",
+      "brightYellow": "#f5f543",
+      "brightBlue": "#3b8eea",
+      "brightPurple": "#d670d6",
+      "brightCyan": "#29b8db",
+      "brightWhite": "#e5e5e5",
+      "background": "#1e1e1e",
+      "foreground": "#cccccc",
+      "selectionBackground": "#3a3d41",
+      "cursorColor": "#ffffff"
     }
   ]
 }
