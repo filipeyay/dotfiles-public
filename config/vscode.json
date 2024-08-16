@@ -1,9 +1,8 @@
 {
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'GeistMono Nerd Font Mono'",
+  "editor.fontFamily": "'Hack Nerd Font Mono'",
   "editor.fontSize": 16,
-  "editor.lineHeight": 1.6,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
@@ -15,14 +14,14 @@
   "breadcrumbs.enabled": false,
   "workbench.editor.labelFormat": "short",
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "material-icon-theme",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "editor.minimap.autohide": true,
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
-  "symbols.hidesExplorerArrows": false,
   "terminal.integrated.smoothScrolling": true,
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "workbench.iconTheme": "vscode-icons",
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[python]": {
@@ -33,7 +32,7 @@
     "editor.defaultFormatter": "redhat.java"
   },
 
-  "projectManager.git.baseFolders": ["PATH\\TO\\YOUR\\FOLDER\\"],
+  "projectManager.git.baseFolders": ["C:\\TO\\YOUR\\PATH\\"],
   "projectManager.sortList": "Recent",
 
   "redhat.telemetry.enabled": false,

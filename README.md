@@ -2,13 +2,15 @@
 
 My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
 
-#### Theme
+### Theming
 
-[Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[Gruvbox VsCode Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
 
-[Windows Terminal Theme](https://windowsterminalthemes.dev/) Get Dark+ theme.
+[Icon Theme](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-#### Extensions (Visual Studio Code)
+[Windows Terminal Theme](https://windowsterminalthemes.dev/) Get 'GruvboxDark' theme.
+
+### Extensions (Visual Studio Code)
 
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -22,15 +24,17 @@ My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
 
 [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
-#### Font
+### Font
 
-[GeistMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/GeistMono.zip)
+[Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)
 
-#### PowerShell
+### PowerShell
 
 Install PowerShell from Microsoft store, then run:
 
 `winget install JanDeDobbeleer.OhMyPosh -s winget`
+
+The theme I use with oh-my-posh is [Gruvbox](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/gruvbox.omp.json)
 
 After that you should re-open the terminal and run the PowerShell as Admin, then run:
 
@@ -41,3 +45,11 @@ And then:
 `Import-Module -Name Terminal-Icons`
 
 Re-open the terminal and type `ls` and see if the icons appear on your terminal.
+
+---
+
+### Screenshots
+
+![alt text](./img/vscode_screeshot.png "vscode screenshot")
+
+![alt text](./img/terminal_screenshot.png "terminal screenshot")
