@@ -1,6 +1,6 @@
 # My Dotfiles
 
-My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
+My dotfiles for Visual Studio Code, Azure Data Studio and more.
 
 ### Theming
 
