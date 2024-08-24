@@ -1,14 +1,16 @@
 # My Dotfiles
 
-My dotfiles for Visual Studio Code, Azure Data Studio and more.
+My dotfiles.
 
-### Theming
+---
 
-[Gruvbox VsCode Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
+### Theming (Visual Studio Code)
 
-[Icon Theme](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+[Codemos Modern](https://marketplace.visualstudio.com/items?itemName=Codemos.codemos-modern)
 
-[Windows Terminal Theme](https://windowsterminalthemes.dev/) Get 'GruvboxDark' theme.
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+---
 
 ### Extensions (Visual Studio Code)
 
@@ -24,9 +26,13 @@ My dotfiles for Visual Studio Code, Azure Data Studio and more.
 
 [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
+---
+
 ### Font
 
-[Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)
+[GeistMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/GeistMono.zip)
+
+---
 
 ### PowerShell
 
@@ -47,9 +53,3 @@ And then:
 Re-open the terminal and type `ls` and see if the icons appear on your terminal.
 
 ---
-
-### Screenshots
-
-![alt text](./img/vscode_screeshot.png "vscode screenshot")
-
-![alt text](./img/terminal_screenshot.png "terminal screenshot")

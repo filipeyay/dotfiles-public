@@ -1,7 +1,7 @@
 {
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'Hack Nerd Font Mono'",
+  "editor.fontFamily": "'GeistMono Nerd Font Mono'",
   "editor.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
@@ -12,11 +12,10 @@
   "breadcrumbs.enabled": false,
   "window.newWindowDimensions": "maximized",
   "workbench.editor.labelFormat": "short",
-  "workbench.enablePreviewFeatures": true,
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
-  "workbench.colorTheme": "Default Dark Azure Data Studio"
+  "workbench.colorTheme": "Default Dark Modern"
 }
