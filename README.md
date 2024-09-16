@@ -20,36 +20,28 @@ My dotfiles.
 
 [Prettier Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-[Python Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
-
-[Java Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-
 [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
+[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+[npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+[TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+
+[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ---
 
 ### Font
 
 [GeistMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/GeistMono.zip)
-
----
-
-### PowerShell
-
-Install PowerShell from Microsoft store, then run:
-
-`winget install JanDeDobbeleer.OhMyPosh -s winget`
-
-The theme I use with oh-my-posh is [Gruvbox](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/gruvbox.omp.json)
-
-After that you should re-open the terminal and run the PowerShell as Admin, then run:
-
-`Install-Module -Name Terminal-Icons -Repository PSGallery`
-
-And then:
-
-`Import-Module -Name Terminal-Icons`
-
-Re-open the terminal and type `ls` and see if the icons appear on your terminal.
 
 ---
