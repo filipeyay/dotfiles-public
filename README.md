@@ -6,9 +6,9 @@ My dotfiles.
 
 ### Theming (Visual Studio Code)
 
-[Codemos Modern](https://marketplace.visualstudio.com/items?itemName=Codemos.codemos-modern)
+[Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 
-[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
 
 ---
 
@@ -42,6 +42,6 @@ My dotfiles.
 
 ### Font
 
-[GeistMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/GeistMono.zip)
+[VictorMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/VictorMono.zip)
 
 ---

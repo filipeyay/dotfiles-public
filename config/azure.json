@@ -1,7 +1,7 @@
 {
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'GeistMono Nerd Font Mono'",
+  "editor.fontFamily": "'VictorMono Nerd Font Mono'",
   "editor.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
@@ -17,5 +17,6 @@
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
-  "workbench.colorTheme": "Default Dark Modern"
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "catppuccin.accentColor": "blue"
 }
