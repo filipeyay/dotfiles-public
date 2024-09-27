@@ -1,18 +1,10 @@
 # My Dotfiles
 
-My dotfiles.
+<details>
 
----
+<summary>Extensions</summary>
 
-### Theming (Visual Studio Code)
-
-[Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
-
-[Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
-
----
-
-### Extensions (Visual Studio Code)
+<br>
 
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -38,10 +30,15 @@ My dotfiles.
 
 [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
----
+</details>
 
-### Font
+<br>
 
-[VictorMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/VictorMono.zip)
+<details>
+<summary>Font</summary>
 
----
+<br>
+
+[FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip)
+
+## </details>
