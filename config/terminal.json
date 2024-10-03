@@ -2,35 +2,35 @@
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Dark+",
+      "colorScheme": "Monokai DarkPlus",
       "font": {
-        "face": "FiraCode Nerd Font Mono"
+        "face": "Hack Nerd Font Mono"
       }
     }
   },
   "schemes": [
     {
-      "name": "Dark+",
-      "black": "#000000",
-      "red": "#cd3131",
-      "green": "#0dbc79",
-      "yellow": "#e5e510",
-      "blue": "#2472c8",
-      "purple": "#bc3fbc",
-      "cyan": "#11a8cd",
-      "white": "#e5e5e5",
-      "brightBlack": "#666666",
-      "brightRed": "#f14c4c",
-      "brightGreen": "#23d18b",
-      "brightYellow": "#f5f543",
-      "brightBlue": "#3b8eea",
-      "brightPurple": "#d670d6",
-      "brightCyan": "#29b8db",
-      "brightWhite": "#e5e5e5",
-      "background": "#1e1e1e",
-      "foreground": "#cccccc",
-      "selectionBackground": "#3a3d41",
-      "cursorColor": "#ffffff"
+      "name": "Monokai DarkPlus",
+      "black": "#1e1e1e",
+      "red": "#f4005f",
+      "green": "#98e024",
+      "yellow": "#fd971f",
+      "blue": "#9d65ff",
+      "purple": "#f4005f",
+      "cyan": "#58d1eb",
+      "white": "#c4c5b5",
+      "brightBlack": "#625e4c",
+      "brightRed": "#f4005f",
+      "brightGreen": "#98e024",
+      "brightYellow": "#e0d561",
+      "brightBlue": "#9d65ff",
+      "brightPurple": "#f4005f",
+      "brightCyan": "#58d1eb",
+      "brightWhite": "#f6f6ef",
+      "background": "#0c0c0c",
+      "foreground": "#d9d9d9",
+      "selectionBackground": "#343434",
+      "cursorColor": "#fc971f"
     }
   ]
 }

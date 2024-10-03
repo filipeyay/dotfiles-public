@@ -1,9 +1,8 @@
 {
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'FiraCode Nerd Font Mono'",
+  "editor.fontFamily": "'Hack Nerd Font Mono'",
   "editor.fontSize": 16,
-  "editor.fontLigatures": true,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
@@ -21,6 +20,8 @@
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Monokai DarkPlus",
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[python]": {

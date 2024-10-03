@@ -1,5 +1,23 @@
 # My Dotfiles
 
+My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
+
+<details>
+
+<summary>Theme</summary>
+
+<br>
+
+[Monokai DarkPlus for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=filipeyay.monokai-darkplus)
+
+[Monokai DarkPlus for Azure Data Studio](https://github.com/filipeyay/monokai-darkplus-azure)
+
+[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+</details>
+
+<br>
+
 <details>
 
 <summary>Extensions</summary>
@@ -39,6 +57,6 @@
 
 <br>
 
-[FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip)
+[Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)
 
 ## </details>
