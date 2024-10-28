@@ -1,36 +1,41 @@
+// Don't just copy and paste this into your termina.json file.
+// I have only made public I think might be the most relevant changes.
+
 {
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
       "colorScheme": "Monokai DarkPlus",
+      "cursorShape": "filledBox",
       "font": {
-        "face": "Hack Nerd Font Mono"
+        "face": "iMWritingMono Nerd Font Mono",
+        "size": 12
       }
     }
   },
   "schemes": [
     {
+      "background": "#1E1E1E",
+      "black": "#1A1A1A",
+      "blue": "#9D65FF",
+      "brightBlack": "#625E4C",
+      "brightBlue": "#9D65FF",
+      "brightCyan": "#58D1EB",
+      "brightGreen": "#98E024",
+      "brightPurple": "#F4005F",
+      "brightRed": "#F4005F",
+      "brightWhite": "#F6F6EF",
+      "brightYellow": "#E0D561",
+      "cursorColor": "#D9D9D9",
+      "cyan": "#58D1EB",
+      "foreground": "#D9D9D9",
+      "green": "#98E024",
       "name": "Monokai DarkPlus",
-      "black": "#1e1e1e",
-      "red": "#f4005f",
-      "green": "#98e024",
-      "yellow": "#fd971f",
-      "blue": "#9d65ff",
-      "purple": "#f4005f",
-      "cyan": "#58d1eb",
-      "white": "#c4c5b5",
-      "brightBlack": "#625e4c",
-      "brightRed": "#f4005f",
-      "brightGreen": "#98e024",
-      "brightYellow": "#e0d561",
-      "brightBlue": "#9d65ff",
-      "brightPurple": "#f4005f",
-      "brightCyan": "#58d1eb",
-      "brightWhite": "#f6f6ef",
-      "background": "#0c0c0c",
-      "foreground": "#d9d9d9",
+      "purple": "#F4005F",
+      "red": "#F4005F",
       "selectionBackground": "#343434",
-      "cursorColor": "#fc971f"
+      "white": "#C4C5B5",
+      "yellow": "#FD971F"
     }
   ]
 }

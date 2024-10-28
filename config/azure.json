@@ -1,7 +1,10 @@
+// Those are all preferences so you must add this to the .json file.
+// Do not delete what is generated when you first open the program.
+
 {
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'Hack Nerd Font Mono'",
+  "editor.fontFamily": "'iMWritingMono Nerd Font Mono'",
   "editor.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,

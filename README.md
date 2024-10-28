@@ -1,6 +1,7 @@
 # My Dotfiles
 
 My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
+<br>
 
 <details>
 
@@ -26,37 +27,34 @@ My dotfiles for Visual Studio Code, Azure Data Studio and Windows Terminal.
 
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
 [Prettier Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-[CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
-
 [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-
-[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
 [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-[npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-
 [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
 
 [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
+#### NOTE
+
+I do use other extensions.
+But since those are quite more popular on those "Must have VSCode Extensions" lists. So I just listed a few that I really like.
 
 </details>
 
 <br>
 
 <details>
-<summary>Font</summary>
+<summary>Fonts</summary>
 
 <br>
 
-[Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)
+[iA Writer](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/iA-Writer.zip) , a heavy modification of [IBM Plex Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IBMPlexMono.zip) font.
+
+<br>
 
 ## </details>
