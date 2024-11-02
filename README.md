@@ -55,7 +55,7 @@ But since those are quite more popular on those "Must have VSCode Extensions" li
 
 <br>
 
-[iA Writer](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/iA-Writer.zip) , a heavy modification of [IBM Plex Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IBMPlexMono.zip) font.
+I use [iA Writer](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/iA-Writer.zip) , a heavy modification of [IBM Plex Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IBMPlexMono.zip) font.
 
 <br>
 
