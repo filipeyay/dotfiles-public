@@ -23,8 +23,6 @@
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
-  "workbench.colorTheme": "Monokai DarkPlus",
+  "workbench.colorTheme": "Monokai DarkPlus Modern",
   "workbench.iconTheme": "vscode-icons",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorBlinking": "smooth"
 }

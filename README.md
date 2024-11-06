@@ -13,8 +13,6 @@ I use WSL2 btw.
 
 [Monokai DarkPlus for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=filipeyay.monokai-darkplus)
 
-I also love [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
-
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 </details>

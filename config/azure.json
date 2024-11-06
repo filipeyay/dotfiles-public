@@ -20,7 +20,5 @@
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
-  "workbench.colorTheme": "Monokai DarkPlus",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorBlinking": "smooth"
+  "workbench.colorTheme": "Monokai DarkPlus Modern",
 }
