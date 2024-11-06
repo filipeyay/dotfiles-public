@@ -7,13 +7,13 @@ I use WSL2 btw.
 
 <details>
 
-<summary>Theme</summary>
+<summary>Theming Visual Studio Code</summary>
 
 <br>
 
 [Monokai DarkPlus for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=filipeyay.monokai-darkplus)
 
-[Monokai DarkPlus for Azure Data Studio](https://github.com/filipeyay/monokai-darkplus-azure)
+I also love [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
 
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
@@ -23,7 +23,7 @@ I use WSL2 btw.
 
 <details>
 
-<summary>Extensions</summary>
+<summary>Extending Visual Studio Code</summary>
 
 <br>
 

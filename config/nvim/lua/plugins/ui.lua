@@ -15,4 +15,32 @@ return {
       opts.config.header = vim.split(logo, "\n")
     end,
   },
+
+  -- animation
+  {
+    "echasnovski/mini.animate",
+    event = "VeryLazy",
+    opts = function(_, opts)
+      opts.scroll = {
+        enable = false,
+      }
+    end,
+  },
+
+  -- buffer line // tabs
+  {
+    "akinsho/bufferline.nvim",
+    event = "VeryLazy",
+    keys = {
+      { "<Tab>", "<Cmd>BufferLineCybleNext<CR>", desc = "Next tab" },
+      { "<S-Tab>", "<Cmd>BufferLineCyblePrev<CR>", desc = "Prev tab" },
+    },
+    opts = {
+      options = {
+        mode = "tabs",
+        show_buffer_close_icons = false,
+        show_close_icon = false,
+      },
+    },
+  },
 }
