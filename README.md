@@ -1,6 +1,6 @@
 # My Dotfiles
 
-My dotfiles for Visual Studio Code, Azure Data Studio, Windows Terminal and Neovim.
+My dotfiles for Neovim, Windows Terminal and Visual Studio Code.
 
 I use WSL2 btw.
 <br>
@@ -13,7 +13,9 @@ I use WSL2 btw.
 
 [Monokai DarkPlus for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=filipeyay.monokai-darkplus)
 
-[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+[Kanagawa Paper](https://github.com/sho-87/kanagawa-paper.vscode)
+
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 </details>
 

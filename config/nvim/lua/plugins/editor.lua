@@ -1,11 +1,5 @@
 return {
 
-  -- color highlights
-  {
-    "echasnovski/mini.hipatterns",
-    event = "BufReadPre",
-  },
-
   -- todo comments highlights
   {
     "folke/todo-comments.nvim",
@@ -17,8 +11,8 @@ return {
     "nvim-neo-tree/neo-tree.nvim",
     opts = {
       window = {
-        position = "right", -- opens at the right side at the window
-        width = "50%", -- occupy half of the window
+        position = "right",
+        width = "40%",
       },
     },
     dependencies = {
