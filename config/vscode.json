@@ -14,15 +14,18 @@
   "editor.renderLineHighlight": "gutter",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.newWindowDimensions": "maximized",
+  "window.titleBarStyle": "custom",
+  "window.commandCenter": false,
   "explorer.compactFolders": false,
   "workbench.editor.labelFormat": "short",
-  "window.commandCenter": false,
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
   "workbench.layoutControl.enabled": false,
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Monokai DarkPlus"
   "editor.minimap.autohide": true,
   "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
-  "workbench.colorTheme": "Kanagawa Paper",
-  "workbench.iconTheme": "material-icon-theme",
 }
+

@@ -18,4 +18,3 @@ vim.opt.path:append({ "**" })
 vim.opt.wildignore:append({ "*/node_modules/*" })
 vim.opt.splitkeep = "cursor"
 vim.opt.mouse = ""
-vim.opt.relativenumber = false
