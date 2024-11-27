@@ -1,6 +1,6 @@
 # My Dotfiles
 
-My dotfiles for Neovim, Windows Terminal and Visual Studio Code.
+My dotfiles for Neovim, Tmux, Windows Terminal and Visual Studio Code.
 
 **WARNING**: I cannot guarantee that copying the settings will work as expected. Please make a backup of your personal settings before using the ones in this repository.
 
@@ -11,8 +11,6 @@ My dotfiles for Neovim, Windows Terminal and Visual Studio Code.
 [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 [LazyVim](https://www.lazyvim.org/)
-
-[Vim Extension VSCode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 

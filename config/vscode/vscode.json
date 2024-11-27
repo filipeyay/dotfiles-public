@@ -11,6 +11,8 @@
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
   "editor.parameterHints.enabled": false,
+  "editor.minimap.autohide": true,
+  "editor.smoothScrolling": true,
   "editor.renderLineHighlight": "gutter",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.newWindowDimensions": "maximized",
@@ -18,14 +20,9 @@
   "window.commandCenter": false,
   "explorer.compactFolders": false,
   "workbench.editor.labelFormat": "short",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "workbench.layoutControl.enabled": false,
-  "workbench.sideBar.location": "right",
-  "workbench.colorTheme": "Monokai DarkPlus"
-  "editor.minimap.autohide": true,
-  "editor.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
 }
-

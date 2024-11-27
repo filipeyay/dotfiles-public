@@ -21,10 +21,9 @@ require("lazy").setup({
       "LazyVim/LazyVim",
       import = "lazyvim.plugins",
       opts = {
-        colorscheme = "kanagawa-paper",
+        colorscheme = "gruvbox",
       },
     },
-    -- import/override with your plugins
     { import = "plugins" },
   },
   defaults = {
