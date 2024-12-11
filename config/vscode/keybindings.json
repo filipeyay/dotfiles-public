@@ -1,8 +1,0 @@
-// Keybindings for Project Manager
-[
-  // Project Manager
-  {
-    "key": "ctrl+o",
-    "command": "projectManager.listGitProjects#sideBarGit"
-  },
-]
