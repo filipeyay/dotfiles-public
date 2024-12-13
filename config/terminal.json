@@ -58,7 +58,30 @@
             "selectionBackground": "#C3B7B8",
             "white": "#FFF1F3",
             "yellow": "#F9CC6C"
-        }
+        },
+    {
+      "background": "#193549",
+      "black": "#000000",
+      "blue": "#14d4db",
+      "brightBlack": "#808080",
+      "brightBlue": "#dbad14",
+      "brightCyan": "#00FFFF",
+      "brightGreen": "#33FF00",
+      "brightPurple": "#CC00FF",
+      "brightRed": "#FF0000",
+      "brightWhite": "#FFFFFF",
+      "brightYellow": "#FFFF00",
+      "cursorColor": "#FFC600",
+      "cyan": "#00C5C7",
+      "foreground": "#C7C7C7",
+      "green": "#3AD900",
+      "name": "Cobalt2",
+      "purple": "#FF2C70",
+      "red": "#FF2600",
+      "selectionBackground": "#FFFFFF",
+      "white": "#C7C7C7",
+      "yellow": "#FFC600"
+    },
   ],
   "themes": []
 }
