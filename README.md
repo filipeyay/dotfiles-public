@@ -1,6 +1,6 @@
 # My Dotfiles
 
-My dotfiles for Visual Studio Code, Windows Terminal, Neovim and Tmux.
+My dotfiles for Visual Studio Code, Windows Terminal, Neovim and more.
 
 **WARNING**: I cannot guarantee that copying the settings will work as expected. Please make a backup of your personal settings before using the ones in this repository.
 
