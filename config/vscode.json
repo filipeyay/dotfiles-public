@@ -20,8 +20,6 @@
   "window.commandCenter": false,
   "explorer.compactFolders": false,
   "workbench.editor.labelFormat": "short",
-  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "workbench.layoutControl.enabled": false,
-  "workbench.editor.enablePreview": false
+  "workbench.layoutControl.enabled": false
 }

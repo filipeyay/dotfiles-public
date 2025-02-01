@@ -5,8 +5,7 @@
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Cobalt2",
-      "cursorShape": "filledBox",
+      "colorScheme": "Monokai DarkPlus",
       "font": {
         "face": "iMWritingMono Nerd Font Mono",
         "size": 12
@@ -26,16 +25,16 @@
       "brightRed": "#F4005F",
       "brightWhite": "#F6F6EF",
       "brightYellow": "#E0D561",
-      "cursorColor": "#F6F7EC",
+      "cursorColor": "#FC971F",
       "cyan": "#58D1EB",
-      "foreground": "#C4C5B5",
+      "foreground": "#D9D9D9",
       "green": "#98E024",
-      "name": "Monokai",
+      "name": "Monokai DarkPlus",
       "purple": "#F4005F",
       "red": "#F4005F",
       "selectionBackground": "#343434",
       "white": "#C4C5B5",
-      "yellow": "#FA8419"
+      "yellow": "#FD971F"
     }
   ],
   "themes": []
