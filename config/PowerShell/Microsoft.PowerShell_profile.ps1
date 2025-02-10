@@ -1,7 +1,7 @@
 # Theme
-oh-my-posh init pwsh --config 'C:\Users\USER\AppData\Local\Programs\oh-my-posh\themes\illusi0n.omp.json' | Invoke-Expression # change 'USER' with your username
+oh-my-posh init pwsh --config 'C:\Users\USER\AppData\Local\Programs\oh-my-posh\themes\catppuccin_macchiato.omp.json' | Invoke-Expression # change 'USER' with your username
 
-# Icons
+# Icons | run - Install-Module -Name Terminal-Icons -Repository PSGallery
 Import-Module -Name Terminal-Icons
 
 # Alias
