@@ -1,12 +1,15 @@
 // This are only settings for VSCode.
 // You'll need to specify the formatters later.
 // Also setup the Project Manager.
+// If you want, of course.
 
 {
+  // Main Config
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'iMWritingMono Nerd Font Mono'",
-  "editor.fontSize": 16,
+  "editor.fontFamily": "'Maple Mono NL NF'",
+  "editor.fontSize": 17,
+  "editor.lineHeight": 1.6,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
@@ -14,12 +17,24 @@
   "editor.minimap.autohide": true,
   "editor.smoothScrolling": true,
   "editor.renderLineHighlight": "gutter",
+  "editor.stickyScroll.enabled": false,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.newWindowDimensions": "maximized",
   "window.titleBarStyle": "custom",
   "window.commandCenter": false,
+  "window.menuBarVisibility": "toggle",
   "explorer.compactFolders": false,
   "workbench.editor.labelFormat": "short",
   "workbench.startupEditor": "none",
-  "workbench.layoutControl.enabled": false
+  "workbench.layoutControl.enabled": false,
+
+  // Theming
+  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.iconTheme": "catppuccin-macchiato",
+  "workbench.editor.enablePreview": false,
+  "catppuccin.accentColor": "blue",
+  "workbench.sideBar.location": "right",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "custom-ui-style.font.sansSerif": "'Maple Mono NL NF', monospace"
 }
