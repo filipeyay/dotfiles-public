@@ -1,65 +1,91 @@
-// Don't just copy and paste this into your termina.json file.
-// I have only made public I think might be the most relevant changes.
+// I deleted some stuff so don't just copy and paste
 
 {
+  "actions": [
+    {
+      "command": {
+        "action": "copy",
+        "singleLine": false
+      },
+      "id": "User.copy.644BA8F2"
+    },
+    {
+      "command": "paste",
+      "id": "User.paste"
+    },
+    {
+      "command": {
+        "action": "splitPane",
+        "split": "auto",
+        "splitMode": "duplicate"
+      },
+      "id": "User.splitPane.A6751878"
+    },
+    {
+      "command": "find",
+      "id": "User.find"
+    }
+  ],
+  "copyFormatting": "none",
+  "copyOnSelect": false,
+  "keybindings": [
+    {
+      "id": "User.copy.644BA8F2",
+      "keys": "ctrl+c"
+    },
+    {
+      "id": "User.find",
+      "keys": "ctrl+shift+f"
+    },
+    {
+      "id": "User.paste",
+      "keys": "ctrl+v"
+    },
+    {
+      "id": "User.splitPane.A6751878",
+      "keys": "alt+shift+d"
+    }
+  ],
+  "newTabMenu": [
+    {
+      "type": "remainingProfiles"
+    }
+  ],
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Catppuccin Macchiato",
-      "cursorShape": "bar",
+      "colorScheme": "Dark+",
+      "cursorShape": "filledBox",
       "font": {
-        "cellHeight": "1.6",
-        "face": "Maple Mono NL NF",
+        "face": "iMWritingMono Nerd Font Mono",
         "size": 12
       }
     }
   },
   "schemes": [
     {
-      "background": "#24273A",
-      "black": "#494D64",
-      "blue": "#8AADF4",
-      "brightBlack": "#5B6078",
-      "brightBlue": "#8AADF4",
-      "brightCyan": "#8BD5CA",
-      "brightGreen": "#A6DA95",
-      "brightPurple": "#F5BDE6",
-      "brightRed": "#ED8796",
-      "brightWhite": "#A5ADCB",
-      "brightYellow": "#EED49F",
-      "cursorColor": "#F4DBD6",
-      "cyan": "#8BD5CA",
-      "foreground": "#CAD3F5",
-      "green": "#A6DA95",
-      "name": "Catppuccin Macchiato",
-      "purple": "#F5BDE6",
-      "red": "#ED8796",
-      "selectionBackground": "#5B6078",
-      "white": "#B8C0E0",
-      "yellow": "#EED49F"
+      "background": "#1E1E1E",
+      "black": "#1A1A1A",
+      "blue": "#9D65FF",
+      "brightBlack": "#625E4C",
+      "brightBlue": "#9D65FF",
+      "brightCyan": "#58D1EB",
+      "brightGreen": "#98E024",
+      "brightPurple": "#F4005F",
+      "brightRed": "#F4005F",
+      "brightWhite": "#F6F6EF",
+      "brightYellow": "#E0D561",
+      "cursorColor": "#FC971F",
+      "cyan": "#58D1EB",
+      "foreground": "#D9D9D9",
+      "green": "#98E024",
+      "name": "Monokai DarkPlus",
+      "purple": "#F4005F",
+      "red": "#F4005F",
+      "selectionBackground": "#343434",
+      "white": "#C4C5B5",
+      "yellow": "#FD971F"
     }
   ],
-  "themes": [
-    {
-      "name": "Catppuccin Macchiato",
-      "tab": {
-        "background": "#24273AFF",
-        "iconStyle": "default",
-        "showCloseButton": "always",
-        "unfocusedBackground": null
-      },
-      "tabRow": {
-        "background": "#1E2030FF",
-        "unfocusedBackground": "#181926FF"
-      },
-      "window": {
-        "applicationTheme": "dark",
-        "experimental.rainbowFrame": false,
-        "frame": null,
-        "unfocusedFrame": null,
-        "useMica": false
-      }
-    }
-  ],
-  "useAcrylicInTabRow": true
+  "themes": []
 }

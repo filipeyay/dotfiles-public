@@ -7,9 +7,8 @@
   // Main Config
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'Maple Mono NL NF'",
-  "editor.fontSize": 17,
-  "editor.lineHeight": 1.6,
+  "editor.fontFamily": "'iMWritingMono Nerd Font Mono', 'Maple Mono NL NF', monospace",
+  "editor.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
@@ -22,19 +21,11 @@
   "window.newWindowDimensions": "maximized",
   "window.titleBarStyle": "custom",
   "window.commandCenter": false,
-  "window.menuBarVisibility": "toggle",
   "explorer.compactFolders": false,
   "workbench.editor.labelFormat": "short",
   "workbench.startupEditor": "none",
-  "workbench.layoutControl.enabled": false,
 
   // Theming
-  "workbench.colorTheme": "Catppuccin Macchiato",
-  "workbench.iconTheme": "catppuccin-macchiato",
   "workbench.editor.enablePreview": false,
-  "catppuccin.accentColor": "blue",
-  "workbench.sideBar.location": "right",
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "custom-ui-style.font.sansSerif": "'Maple Mono NL NF', monospace"
+  "workbench.iconTheme": "vscode-icons" // must install from marketplace
 }
