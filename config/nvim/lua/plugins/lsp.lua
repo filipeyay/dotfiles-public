@@ -3,11 +3,15 @@ return {
     "williamboman/mason.nvim",
     opts = function(_, opts)
       vim.list_extend(opts.ensure_installed, {
+        "clangd",
         "stylua",
         "selene",
         "luacheck",
         "shellcheck",
         "shfmt",
+        "prettier",
+        "python-lsp-server",
+        "quick-lint-js",
         "tailwindcss-language-server",
         "typescript-language-server",
         "css-lsp",

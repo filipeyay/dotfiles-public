@@ -1,12 +1,23 @@
 return {
   {
-    "catppuccin/nvim",
-    name = "catppuccin",
-    priority = 1000
+    "sainnhe/gruvbox-material",
+    lazy = false,
+    config = function()
+      vim.g.gruvbox_material_enable_italic = false
+      vim.g.gruvbox_material_background = "medium"
+    end,
   },
+
   {
-  "Mofiqul/vscode.nvim",
-  name = "vscode",
-  priority = 1000
-  }
+    "ellisonleao/gruvbox.nvim",
+    lazy = false,
+    opts = {
+      italic = {
+        strings = false,
+        emphasis = false,
+        comment = true,
+        folds = false,
+      },
+    },
+  },
 }
