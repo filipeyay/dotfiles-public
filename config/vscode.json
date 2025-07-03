@@ -7,7 +7,7 @@
   // Main Config
   "editor.wordWrap": "on",
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'iMWritingMono Nerd Font Mono', 'Maple Mono NL NF', monospace",
+  "editor.fontFamily": "'iMWritingMono Nerd Font Mono', monospace",
   "editor.fontSize": 16,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
@@ -27,5 +27,6 @@
 
   // Theming
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "vscode-icons" // must install from marketplace
+  "workbench.iconTheme": "vscode-icons", // install from extensions tab
+  "workbench.colorTheme": "Gruvbox Dark Hard" //install from extensions tab
 }

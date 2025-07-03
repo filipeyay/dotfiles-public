@@ -1,5 +1,5 @@
 # Theme
-oh-my-posh init pwsh --config 'C:\Users\USER\AppData\Local\Programs\oh-my-posh\themes\THEME' | Invoke-Expression # change 'USER' with your username
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/gruvbox.omp.json" | Invoke-Expression
 
 # Icons | run - Install-Module -Name Terminal-Icons -Repository PSGallery
 Import-Module -Name Terminal-Icons
@@ -8,3 +8,5 @@ Import-Module -Name Terminal-Icons
 Set-Alias ll ls
 Set-Alias g git
 Set-Alias grep findstr
+Set-Alias vim nvim
+Set-Alias whereis where.exe

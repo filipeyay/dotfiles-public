@@ -54,11 +54,11 @@
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Dark+",
+      "colorScheme": "Gruvbox Dark Hard",
       "cursorShape": "filledBox",
       "font": {
         "face": "BlexMono Nerd Font Mono",
-        "size": 12
+        "size": 13
       }
     }
   },
