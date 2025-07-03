@@ -1,0 +1,6 @@
+[general]
+import = [
+	"~/.config/alacritty/theme.toml",
+	"~/.config/alacritty/terminal.toml",
+#	"~/.config/alacritty/keybindings.toml",
+]

@@ -1,0 +1,41 @@
+[window]
+
+dimensions = { columns = 88, lines = 25}
+
+decorations = "Full"
+
+opacity = 1.0
+
+startup_mode = "Maximized"
+
+title = "Terminal"
+
+dynamic_title = true
+
+[scrolling]
+
+history = 100000
+
+[font]
+
+normal = { family = "BlexMono Nerd Font Mono", style = "Regular" }
+bold = { family = "BlexMono Nerd Font Mono", style = "Bold" }
+italic = { family = "BlexMono Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "BlexMono Nerd Font Mono", style = "Bold Italic" }
+size = 13.0
+
+[cursor]
+
+#style = { "Block", "On" }
+style = { shape = "Block", blinking = "On"}
+
+thickness = 0.15
+
+[terminal]
+
+# shell = "{ program = "/bin/bash", args = [-l] },
+
+[mouse]
+
+hide_when_typing = true
+
