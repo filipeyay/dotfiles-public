@@ -18,10 +18,10 @@ history = 100000
 
 [font]
 
-normal = { family = "BlexMono Nerd Font Mono", style = "Regular" }
-bold = { family = "BlexMono Nerd Font Mono", style = "Bold" }
-italic = { family = "BlexMono Nerd Font Mono", style = "Italic" }
-bold_italic = { family = "BlexMono Nerd Font Mono", style = "Bold Italic" }
+normal = { family = "Maple Mono NL NF", style = "Regular" }
+bold = { family = "Maple Mono NL NF", style = "Bold" }
+italic = { family = "Maple Mono NL NF", style = "Italic" }
+bold_italic = { family = "Maple Mono NL NF", style = "Bold Italic" }
 size = 13.0
 
 [cursor]
