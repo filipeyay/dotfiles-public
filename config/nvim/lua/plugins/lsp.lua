@@ -12,7 +12,6 @@ return {
         "prettier",
         "python-lsp-server",
         "quick-lint-js",
-        "tailwindcss-language-server",
         "typescript-language-server",
         "css-lsp",
       })
