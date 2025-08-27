@@ -1,48 +1,37 @@
 // I deleted some stuff so don't just copy and paste
 
+/* 
+List of deleted sections:
+
+------
+"defaultProfiles": 
+"list": []
+------
+*/
+
 {
-  "actions": [
-    {
-      "command": {
-        "action": "copy",
-        "singleLine": false
-      },
-      "id": "User.copy.644BA8F2"
-    },
-    {
-      "command": "paste",
-      "id": "User.paste"
-    },
-    {
-      "command": {
-        "action": "splitPane",
-        "split": "auto",
-        "splitMode": "duplicate"
-      },
-      "id": "User.splitPane.A6751878"
-    },
-    {
-      "command": "find",
-      "id": "User.find"
-    }
-  ],
+  "$help": "https://aka.ms/terminal-documentation",
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "actions": [],
+  "centerOnLaunch": true,
   "copyFormatting": "none",
   "copyOnSelect": false,
+  "defaultProfile": "{}",
   "keybindings": [
     {
-      "id": "User.copy.644BA8F2",
+      "id": "Terminal.CopyToClipboard",
       "keys": "ctrl+c"
     },
     {
-      "id": "User.find",
+      "id": "Terminal.FindText",
       "keys": "ctrl+shift+f"
     },
     {
-      "id": "User.paste",
+      "id": "Terminal.PasteFromClipboard",
       "keys": "ctrl+v"
     },
     {
-      "id": "User.splitPane.A6751878",
+      "id": "Terminal.DuplicatePaneAuto",
       "keys": "alt+shift+d"
     }
   ],
@@ -54,15 +43,39 @@
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Gruvbox Dark Hard",
+      "colorScheme": "Everforest Dark",
       "cursorShape": "filledBox",
       "font": {
-        "face": "BlexMono Nerd Font Mono",
+        "face": "Maple Mono NL NF",
         "size": 13
       }
-    }
+    },
+    "list": []
   },
   "schemes": [
+    {
+      "background": "#2D353B",
+      "black": "#475258",
+      "blue": "#7FBBB3",
+      "brightBlack": "#4B565C",
+      "brightBlue": "#7FBBB3",
+      "brightCyan": "#83C092",
+      "brightGreen": "#A7C080",
+      "brightPurple": "#D699B6",
+      "brightRed": "#E67E80",
+      "brightWhite": "#D3C6AA",
+      "brightYellow": "#DBBC7F",
+      "cursorColor": "#FFFFFF",
+      "cyan": "#83C092",
+      "foreground": "#D3C6AA",
+      "green": "#A7C080",
+      "name": "Everforest Dark",
+      "purple": "#D699B6",
+      "red": "#E67E80",
+      "selectionBackground": "#FFFFFF",
+      "white": "#D3C6AA",
+      "yellow": "#DBBC7F"
+    },
     {
       "background": "#1E1E1E",
       "black": "#1A1A1A",
@@ -85,53 +98,8 @@
       "selectionBackground": "#343434",
       "white": "#C4C5B5",
       "yellow": "#FD971F"
-    },
-    {
-      "name": "Gruvbox Dark Medium",
-      "black": "#282828",
-      "red": "#cc241d",
-      "green": "#98971a",
-      "yellow": "#d79921",
-      "blue": "#458588",
-      "purple": "#b16286",
-      "cyan": "#689d6a",
-      "white": "#a89984",
-      "brightBlack": "#928374",
-      "brightRed": "#fb4934",
-      "brightGreen": "#b8bb26",
-      "brightYellow": "#fabd2f",
-      "brightBlue": "#83a598",
-      "brightPurple": "#d3869b",
-      "brightCyan": "#8ec07c",
-      "brightWhite": "#ebdbb2",
-      "background": "#282828",
-      "foreground": "#ebdbb2",
-      "selectionBackground": "#665c54",
-      "cursorColor": "#ebdbb2"
-    },
-    {
-      "name": "Gruvbox Dark Hard",
-      "black": "#1b1b1b",
-      "red": "#cc241d",
-      "green": "#98971a",
-      "yellow": "#d79921",
-      "blue": "#458588",
-      "purple": "#b16286",
-      "cyan": "#689d6a",
-      "white": "#a89984",
-      "brightBlack": "#928374",
-      "brightRed": "#fb4934",
-      "brightGreen": "#b8bb26",
-      "brightYellow": "#fabd2f",
-      "brightBlue": "#83a598",
-      "brightPurple": "#d3869b",
-      "brightCyan": "#8ec07c",
-      "brightWhite": "#ebdbb2",
-      "background": "#1d2021",
-      "foreground": "#ebdbb2",
-      "selectionBackground": "#665c54",
-      "cursorColor": "#ebdbb2"
     }
   ],
-  "themes": []
+  "themes": [],
+  "useAcrylicInTabRow": true
 }
