@@ -69,6 +69,31 @@ return {
       },
     },
   },
+  {
+    'polirritmico/monokai-nightasty.nvim',
+    lazy = false,
+    priority = 1000,
+    opts = {
+      dark_style_background = '#1E1E1E',
+      hl_styles = {
+        comments = { italic = true },
+        keywords = { italic = false },
+      },
+    },
+  },
+
+  {
+    'datsfilipe/vesper.nvim',
+    opts = {
+      italics = {
+        comments = false,
+        keywords = false,
+        functions = false,
+        strings = false,
+        variables = false,
+      },
+    },
+  },
 
   -- todo comments highlights
   {
@@ -96,21 +121,20 @@ return {
   {
     'mason-org/mason-lspconfig.nvim',
     opts = {
-      ensure_installed = {
-        'clangd',
-        'stylua',
-        'selene',
-        'shellcheck',
-        'shfmt',
-        'prettier',
-        'pyright',
-        'quick_lint_js',
-        'ts_ls',
-        'cssls',
-        'html',
-        'yamlls',
-        'tailwindcss',
-      },
+      --ensure_installed = {
+      --'clangd',
+      --'stylua',
+      --'selene',
+      --'shellcheck',
+      --'shfmt',
+      --'prettier',
+      --'pyright',
+      --'quick_lint_js',
+      --'ts_ls',
+      --'cssls',
+      --'html',
+      --'yamlls',
+      --},
     },
     dependencies = {
       { 'mason-org/mason.nvim', opts = {} },
