@@ -24,8 +24,6 @@ My dotfiles for Visual Studio Code, Windows Terminal, Neovim and more.
 
 ### Theming:
 
-- [Everforest](https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest)
-
 - [Monokai DarkPlus](https://marketplace.visualstudio.com/items?itemName=filipeyay.monokai-darkplus)
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -33,3 +31,4 @@ My dotfiles for Visual Studio Code, Windows Terminal, Neovim and more.
 ## Font
 
 I use [Maple Mono Font](https://github.com/subframe7536/maple-font) as my main monospace font.
+And I also use [BlexMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/IBMPlexMono.zip) sometimes.
