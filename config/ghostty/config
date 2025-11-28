@@ -17,6 +17,7 @@ command = "/usr/bin/zsh"
 
 # Font
 font-family = BlexMono Nerd Font Mono
+#font-family = Maple Mono Normal NL NF
 font-size = 14
 
 # Background
@@ -29,3 +30,9 @@ theme = Monokai DarkPlus
 # Window size
 window-height = 28
 window-width = 100
+
+# keybinds
+keybind = ctrl+alt+h=goto_split:left
+keybind = ctrl+alt+l=goto_split:right
+keybind = ctrl+alt+k=goto_split:up
+keybind = ctrl+alt+j=goto_split:down
