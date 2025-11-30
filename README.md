@@ -43,6 +43,6 @@ And I also use [BlexMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/rele
 
 ## Extra
 
-For transparency check [GlassIt](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+For transparency check [GlassIt](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit).
 
-For blur check [Blur My Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+For blur check [Blur My Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/).
