@@ -3,17 +3,15 @@
 # Run `ghostty +show-config --default --docs` to view a list of
 # all available config options and their default values.
 #
-# Ghostty can reload the configuration while running by using the menu
-# options or the bound key (default: Command + Shift + comma on macOS and
-# Control + Shift + comma on other platforms). Not all config options can be
-# reloaded while running; some only apply to new windows and others may require
-# a full restart to take effect.
+# Ghostty can reload the configuration with:
+# (default: Command + Shift + comma on macOS and (Control + Shift + comma on other platforms).
+# Some config only only apply with a full restart.
 #
 # TIP: blur goes nice with a blur my shell setup
 
 # Shell
 shell-integration = zsh
-command = "/usr/bin/zsh"
+command = "/bin/zsh"
 
 # Font
 #font-family = BlexMono Nerd Font Mono
@@ -25,7 +23,7 @@ font-family-bold-italic = Maple Mono Normal NL NF Italic
 font-size = 15
 
 # Background
-background-opacity = 0.9
+background-opacity = 0.8
 background-blur = true
 
 # Cursor
