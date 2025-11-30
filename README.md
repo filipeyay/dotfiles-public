@@ -2,13 +2,15 @@
 
 My dotfiles for Visual Studio Code, Windows Terminal, Neovim and more.
 
-**WARNING**: I cannot guarantee that copying the settings will work as expected. Please make a backup of your personal settings before using the ones in this repository.
+**WARNING**: I cannot guarantee that copying the settings will work as expected. Please install all extensions listed and make a backup of your personal settings before using the ones in this repository.
 
-## VsCode Extensions (Only Essential Extensions Listed)
+## VsCode Extensions
 
 ### Productivity:
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+- [expand-region](https://marketplace.visualstudio.com/items?itemName=letrieu.expand-region)
 
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
@@ -28,7 +30,15 @@ My dotfiles for Visual Studio Code, Windows Terminal, Neovim and more.
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
+- [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+
 ## Font
 
 I use [Maple Mono Font](https://github.com/subframe7536/maple-font) as my main monospace font.
 And I also use [BlexMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/IBMPlexMono.zip) sometimes.
+
+## Showcase
+
+![img](./showcase/vscode.png)
+
+![img](./showcase/nvim.png)
