@@ -3,8 +3,9 @@
 {
   // Main Config
   "editor.linkedEditing": true,
-  "editor.fontFamily": "'Maple Mono NL NF', 'BlexMono Nerd Font Mono', monospace",
-  "editor.fontSize": 18,
+  //"editor.fontFamily": "'BlexMono Nerd Font Mono', monospace",
+  "editor.fontFamily": "Maple Mono Normal NL NF",
+  "editor.fontSize": 19,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
@@ -24,10 +25,11 @@
   "chat.commandCenter.enabled": false,
   "workbench.layoutControl.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "editor.lineNumbers": "relative",
   "zenMode.hideLineNumbers": false,
   "workbench.editor.empty.hint": "hidden",
   "extensions.autoUpdate": "onlyEnabledExtensions",
+  "editor.lineNumbers": "relative",
+  "git.openRepositoryInParentFolders": "never",
 
   // Vim Settings
   "vim.leader": "<space>",
@@ -85,9 +87,13 @@
   "projectManager.sortList": "Recent",
   "projectManager.git.baseFolders": ["PATH\\TO\\YOUR\\GIT\\FOLDER"],
 
+  // Telemetry
+  "redhat.telemetry.enabled": false,
+  "telemetry.telemetryLevel": "off",
+
   // Theming
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Everforest Dark",
-  "everforest.italicComments": true
+  "workbench.colorTheme": "Monokai DarkPlus Modern",
+  "glassit.alpha": 220
 }
