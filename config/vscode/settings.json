@@ -94,6 +94,5 @@
   // Theming
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai DarkPlus Modern",
-  "glassit.alpha": 220
+  "workbench.colorTheme": "Monokai DarkPlus Modern"
 }
