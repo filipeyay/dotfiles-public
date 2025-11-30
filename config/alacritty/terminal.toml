@@ -4,7 +4,7 @@ dimensions = { columns = 100, lines = 28}
 
 decorations = "Full"
 
-opacity = 0.8
+opacity = 1.0
 
 startup_mode = "Windowed"
 
