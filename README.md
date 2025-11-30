@@ -37,11 +37,12 @@ And I also use [BlexMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/rele
 
 ## Showcase
 
-![img](./showcase/vscode.png)
+![img](./showcase/vs_code.png)
 
 ![img](./showcase/nvim.png)
 
 ## Extra
 
 For transparency check [GlassIt](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+
 For blur check [Blur My Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
