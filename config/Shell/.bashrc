@@ -158,6 +158,7 @@ source "$OSH"/oh-my-bash.sh
 
 alias vim="nvim"
 alias vi="nvim"
+alias cls="clear"
 
 # NVM (Node Version Manager)
 export NVM_DIR="$HOME/.nvm"
