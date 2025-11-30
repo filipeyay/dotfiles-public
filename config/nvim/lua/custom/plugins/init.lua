@@ -74,7 +74,7 @@ return {
     lazy = false,
     priority = 1000,
     opts = {
-      dark_style_background = '#1E1E1E',
+      dark_style_background = 'transparent',
       hl_styles = {
         comments = { italic = true },
         keywords = { italic = false },
