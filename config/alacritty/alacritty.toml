@@ -1,6 +1,5 @@
 [general]
 import = [
-	"~/.config/alacritty/EverforestDarkTheme.toml",
+  "~/.config/alacritty/MonokaiDarkPlus.toml",
 	"~/.config/alacritty/terminal.toml",
-#	"~/.config/alacritty/keybindings.toml",
 ]

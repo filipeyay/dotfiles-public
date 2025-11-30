@@ -1,12 +1,12 @@
 [window]
 
-dimensions = { columns = 88, lines = 25}
+dimensions = { columns = 100, lines = 28}
 
 decorations = "Full"
 
-opacity = 1.0
+opacity = 0.8
 
-startup_mode = "Maximized"
+startup_mode = "Windowed"
 
 title = "Terminal"
 
@@ -18,24 +18,19 @@ history = 100000
 
 [font]
 
-normal = { family = "Maple Mono NL NF", style = "Regular" }
-bold = { family = "Maple Mono NL NF", style = "Bold" }
-italic = { family = "Maple Mono NL NF", style = "Italic" }
-bold_italic = { family = "Maple Mono NL NF", style = "Bold Italic" }
-size = 13.0
+normal = { family = "Maple Mono Normal NL NF", style = "Regular" }
+bold = { family = "Maple Mono Normal NL NF", style = "Bold" }
+italic = { family = "Maple Mono Normal NL NF", style = "Italic" }
+bold_italic = { family = "Maple Mono Normal NL NF", style = "Bold Italic" }
+size = 15.0
 
 [cursor]
 
-#style = { "Block", "On" }
 style = { shape = "Block", blinking = "On"}
 
 thickness = 0.15
 
 [terminal]
 
-# shell = "{ program = "/bin/bash", args = [-l] },
-
-[mouse]
-
-hide_when_typing = true
-
+shell = { program = "/bin/zsh" }
+# shell = "{ program = "/bin/bash" },
