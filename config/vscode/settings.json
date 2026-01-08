@@ -1,18 +1,14 @@
-// Visual Studio Code Settings
-
 {
   // Main Config
   "editor.linkedEditing": true,
-  //"editor.fontFamily": "'BlexMono Nerd Font Mono', monospace",
-  "editor.fontFamily": "Maple Mono Normal NL NF",
-  "editor.fontSize": 19,
+  "editor.fontFamily": "FiraCode Nerd Font Mono",
+  "editor.fontSize": 17,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
   "editor.formatOnSave": true,
   "editor.parameterHints.enabled": false,
   "editor.minimap.enabled": false,
   "editor.smoothScrolling": true,
-  "editor.renderLineHighlight": "gutter",
   "editor.stickyScroll.enabled": false,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.newWindowDimensions": "maximized",
@@ -28,50 +24,6 @@
   "zenMode.hideLineNumbers": false,
   "workbench.editor.empty.hint": "hidden",
   "extensions.autoUpdate": "onlyEnabledExtensions",
-  "editor.lineNumbers": "relative",
-  "git.openRepositoryInParentFolders": "never",
-
-  // Vim Settings
-  "vim.leader": "<space>",
-  "vim.foldfix": true,
-  "vim.hlsearch": true,
-  "vim.useSystemClipboard": true,
-  "vim.highlightedyank.enable": true,
-  "vim.highlightedyank.color": "rgba(230, 97, 89, 0.7)",
-  "vim.normalModeKeyBindings": [
-    {
-      "before": ["leader", "w"],
-      "commands": [":w!"]
-    },
-    {
-      "before": ["leader", "q"],
-      "commands": [":q!"]
-    },
-    {
-      "before": ["leader", "x"],
-      "commands": [":x!"]
-    },
-    {
-      "before": ["<c-a>"],
-      "after": ["g", "g", "V", "G"]
-    },
-    {
-      "before": ["leader", "k"],
-      "commands": ["editor.action.showHover"]
-    },
-    {
-      "before": ["]", "d"],
-      "commands": ["editor.action.marker.next"]
-    },
-    {
-      "before": ["[", "d"],
-      "commands": ["editor.action.marker.prev"]
-    },
-    {
-      "before": ["leader", "c", "a"],
-      "commands": ["editor.action.quickFix"]
-    }
-  ],
 
   // Formatter
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -79,20 +31,16 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
   },
-  "[cpp]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools"
-  },
-
-  // Project Manager Settings
-  "projectManager.sortList": "Recent",
-  "projectManager.git.baseFolders": ["PATH\\TO\\YOUR\\GIT\\FOLDER"],
 
   // Telemetry
   "redhat.telemetry.enabled": false,
   "telemetry.telemetryLevel": "off",
 
+  // Git
+  "git.autofetch": true,
+  "git.openRepositoryInParentFolders": "never",
+
   // Theming
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai DarkPlus Modern"
+  "workbench.colorTheme": "Monokai DarkPlus"
 }

@@ -1,5 +1,0 @@
-[general]
-import = [
-  "~/.config/alacritty/MonokaiDarkPlus.toml",
-	"~/.config/alacritty/terminal.toml",
-]
