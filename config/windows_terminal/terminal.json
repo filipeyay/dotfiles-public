@@ -43,10 +43,9 @@ List of deleted sections:
   "profiles": {
     "defaults": {
       "antialiasingMode": "cleartype",
-      "colorScheme": "Everforest Dark",
-      "cursorShape": "filledBox",
+      "colorScheme": "Monokai DarkPlus",
       "font": {
-        "face": "Maple Mono NL NF",
+        "face": "FiraCode Nerd Font Mono",
         "size": 13
       }
     },

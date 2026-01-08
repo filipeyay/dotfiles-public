@@ -7,7 +7,6 @@ My dotfiles for Visual Studio Code, Windows Terminal, Neovim and more.
 ## VsCode Extensions
 
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
 ### Formatters:
 
